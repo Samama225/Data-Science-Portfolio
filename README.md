@@ -57,5 +57,5 @@
 ---
 
 ## 📫 Connect With Me 
-- 💻 [GitHub](https://github.com/Samama225?tab=repositories)  
+- 💻 [LinkedIn](https://www.linkedin.com/in/samama-shabbir-889a9b252/)  
 - 📧 Email: samamashabbir125@gmail.com 
